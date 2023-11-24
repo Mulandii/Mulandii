@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning html,css and java
 - ☘️ I’m looking to collaborate on Website building 
 - 📫 Let's connect or say hi...🐣
-- https://wa.me/254768827492
+- https://wa.me/254797606189
 
 <!---
 Mulandii/Mulandii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
