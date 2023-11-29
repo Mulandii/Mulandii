@@ -9,14 +9,14 @@
             alt="SASSY NOT TRASHY"
         />
     </a>
-</p>
-- 👋 Hello, I’m @Mulandii
-- 💡 I’m passionate in Web development and Cybersecurity
-- I find it fun interacting with WhatsApp bots
-- 🌱 I’m currently learning html,css and java
-- ☘️ I’m looking to collaborate on Website building 
-- 📫 Feel free to reach me ...🐣
-- https://wa.me/254797606189
+
+<p>- 👋 Hello, I’m @Mulandii</p>
+<p>- 💡 I’m passionate in Web development and Cybersecurity</p>
+<p>- I find it fun interacting with WhatsApp bots</p>
+<p>- 🌱 I’m currently learning html,css and java</p>
+<p>- ☘️ I’m looking to collaborate on Website building </p>
+<p>- 📫 Feel free to reach me ...🐣</p>
+<p>- https://wa.me/254797606189</p>
 
 <!---
 Mulandii/Mulandii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
