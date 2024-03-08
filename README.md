@@ -11,11 +11,10 @@
     </a>
 
 <p>- 👋 Hello, I’m @Mulandii</p>
-<p>- 💡 I’m passionate in Web development and Cybersecurity</p>
-<p>- I find it fun interacting with WhatsApp bots</p>
-<p>- 🌱 I’m currently learning html,css and java</p>
-<p>- ☘️ I’m looking to collaborate on Website building </p>
-<p>- 📫 Feel free to reach me ...🐣</p>
+<p>- 💡 I’m  a passionate  Web developer and Cybersecurity expert</p>
+<p>- 🌱 I’m currently learning html,css and javascript</p>
+<p>- ☘️ I’m looking ready to collaborate on Website building </p>
+<p>- 📫 You can reach me at...🐣</p>
 <p>- https://wa.me/254797606189</p>
 
 <!---
