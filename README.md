@@ -10,12 +10,12 @@
         />
     </a>
 
-<p>- 👋 Hello, I’m @Mulandii</p>
-<p>- 💡 I’m  a passionate  Web developer and Cybersecurity expert</p>
-<p>- 🌱 I’m currently learning html,css and javascript</p>
-<p>- ☘️ I’m looking ready to collaborate on Website building </p>
-<p>- 📫 You can reach me at...🐣</p>
-<p>- https://wa.me/254797606189</p>
+<p>- 👋 Hello, I’m human </p>
+<p>- 💡 I'm passionate in Cybersecurity </p>
+<p>- 🌱 I’m currently learning </p>
+<p>- ☘️ I’m  ready to collaborate on Webdev </p>
+<p>- 📫 You can say hi, ask or share an idea at...🐣</p>
+<p>- https://wa.me/254768827492</p>
 
 <!---
 Mulandii/Mulandii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
