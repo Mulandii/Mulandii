@@ -11,7 +11,7 @@
     </a>
     
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=0000FF&center=true&width=910&height=100&lines=Ace;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=00008B&center=true&width=910&height=100&lines=Ace;" alt="Typing SVG" /></a>
 
 ![My's Stats](https://github-readme-stats.vercel.app/api?username=Mulandii&theme=blue-green&show_icons=true&hide_border=true&count_private=false)
 ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mulandii&theme=blue-green&hide_border=true)
