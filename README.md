@@ -38,8 +38,10 @@ Cybersecurity enthusiast focused on SOC operations, Blue Teaming, and digital fo
 <p align="center">
 mulandii@proton.me<br>
 <a href="https://wa.me/254768827492">WhatsApp</a> • 
-<a href="https://mulandii.github.io/">Portfolio</a>
+<a href="https://mulandii.github.io/">Blog</a>
 </p>
+
+<p align="center">🤝 Reach out for collaborations!</p>
 
 ---
 
