@@ -76,8 +76,6 @@ mulandii@proton.me<br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake.svg">
 </picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mulandii&theme=react-dark&hide_border=true" />
 </a>
 </p>
 <br>
----
