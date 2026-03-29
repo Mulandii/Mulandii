@@ -39,6 +39,8 @@ Cybersecurity enthusiast focused on SOC operations, Blue Teaming, and digital fo
 mulandii@proton.me<br>
 <a href="https://wa.me/254768827492">WhatsApp</a> • 
 <a href="https://mulandii.github.io/">Blog</a>
+  <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
 </p>
 
 <p align="center">🤝 Reach out for collaborations!</p>
@@ -69,7 +71,11 @@ mulandii@proton.me<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mulandii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mulandii&layout=compact&langs_count=8&theme=algolia"/>
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulandii&theme=algolia"/>
-  <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake.svg">
+</picture>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mulandii&theme=react-dark&hide_border=true" />
 </a>
 </p>
