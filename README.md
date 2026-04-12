@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <p>Before you scrool.I am developing passion in ML.Still a beginner though.I would really appreciate learning and interacting with you if you have been in the field for a while now.Kindly reach out</p>
+  <p>Before you scroll.I am developing passion in ML.Still a beginner though.I would really appreciate learning and interacting with you if you have been in the field for a while now.Kindly reach out</p>
 <strong>About Me</strong><br><br>
 
 Cybersecurity enthusiast focused on SOC operations, Blue Teaming, and digital forensics. I analyze threats, investigate incidents, and strengthen defensive security through hands-on labs.
