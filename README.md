@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Mulandii">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=1000&lines=SOC+Analyst;Blue+Team;Digital+Forensics" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&width=1000&lines=SOC+Analyst;Blue+Team;Digital+Forensics" alt="Typing SVG"/>
   </a>
 </p>
 
