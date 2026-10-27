@@ -1,27 +1,37 @@
 <p align="center">
-  <img src="./database/kaveesha.gif" alt="Loading..." width="320"/>
+  <img src="./database/kaveesha.gif" alt="Kaveesha" width="320"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mulandii">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&width=1000&lines=SOC+Analyst;Blue+Team;Digital+Forensics" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&width=900&lines=SOC+Analyst;Blue+Team;Digital+Forensics+%26+Incident+Response" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  Before you scroll. I am developing a passion for ML. Still a beginner though.<br>
-  I would really appreciate learning and interacting with anyone who has been in the field a while. Kindly reach out.
-</p>
-
-<p align="center">
-  <strong>About Me</strong><br><br>
-  Cybersecurity enthusiast focused on SOC operations, Blue Teaming, and digital forensics.<br>
-  I analyze threats, investigate incidents, and strengthen defensive security through hands-on labs.
+  Cybersecurity practitioner focused on SOC operations, threat detection, incident response, and digital forensics.<br>
+  Building practical defensive skills through hands-on labs, log analysis, and investigation workflows.
 </p>
 
 ---
 
-### 🛡️ Skills & Tools
+### About
+
+Cybersecurity practitioner with a degree in Information Security and Forensics, focused on SOC operations, threat detection, incident response, and digital forensics.  
+
+Holds Security Analyst and Cisco Ethical Hacker certifications. Building practical defensive skills through hands-on labs, log analysis, and investigation workflows.
+
+Currently expanding into machine learning applications for security (anomaly detection, alert prioritization, and automation).
+
+---
+
+### Education & Certifications
+
+- **Bachelor’s Degree** — Information Security and Forensics  
+- **Security Analyst** Certification  
+- **Cisco Ethical Hacker** Certification
+
+---
+
+### Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -29,7 +39,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autopsy%20DFIR-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Autopsy-222222?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FTK-5A2CA0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Digital%20Forensics-8B0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux%20Administration-333?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -38,14 +48,14 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 <p align="center">
   <a href="mailto:mulandii@proton.me">
     <img src="https://img.shields.io/badge/Email-mulandii%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/254768827492">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://www.linkedin.com/in/baraka-mulandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Baraka%20Mulandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mulandii.github.io/">
     <img src="https://img.shields.io/badge/Blog-mulandii.github.io-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog"/>
@@ -55,45 +65,27 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="25%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Contact image"/>
-</p>
-
-<p align="center">🤝 Reach out for collaborations!</p>
+Open to discussions on SOC workflows, DFIR cases, or collaboration on security projects.
 
 ---
 
-<!--
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Mulandii&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
-
-</div>
--->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mulandii&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mulandii&theme=windows-dark)](https://git.io/streak-stats)
-
-</div>
-
-<p align="center">
   <a href="https://github.com/mulandii">
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mulandii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulandii&theme=algolia"/>
+    <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulandii&theme=algolia"/>
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mulandii&theme=windows-dark" alt="GitHub Streak"/>
+</div>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake.svg">
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/mulandii/mulandii/output/github-snake.svg">
   </picture>
 </p>
