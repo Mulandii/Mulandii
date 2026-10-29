@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&width=900&lines=SOC+Analyst;Blue+Team;%29+Incident+Response" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&width=900&lines=SOC+Analyst;Blue+Team;%29" alt="Typing SVG"/>
 </p>
 
 <p align="center">
