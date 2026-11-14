@@ -1,4 +1,4 @@
-<p align="center">
+7<p align="center">
   <img src="./database/kaveesha.gif" alt="Kaveesha" width="320"/>
 
 <p align="center">
@@ -73,7 +73,7 @@ Open to discussions on SOC workflows, DFIR cases, or collaboration on security p
 <div align="center">
   <a href="https://github.com/mulandii">
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mulandii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulandii&theme=algolia"/>
+    <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulandii&theme=alglia"/>
   </a>
 </div>
 
