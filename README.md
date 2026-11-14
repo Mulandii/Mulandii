@@ -78,7 +78,7 @@ Open to discussions on SOC workflows, DFIR cases, or collaboration on security p
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mulandi&theme=windows-dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mulandii&theme=windows-dark" alt="GitHub Streak"/>
 </div>
 
 <p align="center">
