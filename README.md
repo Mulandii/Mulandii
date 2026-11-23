@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="./database/kaveesha.gif" alt="Kaveesha" width="320"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&width=900&lines=SOC+Analyst;Blue+Team;Digital+Forensics" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Cybersecurity practitioner focused on SOC operations, threat detection, incident response, and digital forensics.<br>
-  Building practical defensive skills through hands-on labs, log analysis, and investigation workflows.
+  <img src="./banner.svg" alt="Baraka — Information security & forensics | SOC analyst" width="100%"/>
 </p>
 
 ---
